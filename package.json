@@ -17,6 +17,7 @@
     "react-vr-web": "~2.0.0",
     "three": "^0.87.0",
     "request": "^2.81.0",
+    "dotenv": "^5.0.0",
     "webvr-polyfill": "^0.10.2"
   },
   "devDependencies": {
